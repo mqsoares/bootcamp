@@ -1,6 +1,6 @@
 # Git e GitHub
 
-Git: Controle de versionamento.
+Git: Controle de versionamento.<br>
 GitHub: Serviço compartilhado na web, onde os arquivos ficam armazenados remotamente. 
 
 ## Comandos utilizando o Git Bash:
