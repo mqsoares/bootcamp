@@ -1,5 +1,5 @@
 # Bootcamp DIO
-Criado para resumos/exercícios.
+Criado para resumos/exercícios Git, GitHub e JavaScript. 
  
 ## Índice
 - 001 - Intro Git e GitHub - Resumo dos principais comandos para utilização do Git Bash.
