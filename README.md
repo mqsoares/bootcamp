@@ -6,6 +6,7 @@ Criado para resumos/exercícios.
 - 002 - Sintaxe e Operadores - Atividade
 - 003 - Variaveis e Tipos - Atividades
 - 004 - Funçoes - Atividades
+- 005 - Colecoes
 
 ### Links Úteis
 [Download do Git](https://git-scm.com/downloads)<br>
