@@ -7,7 +7,8 @@ Criado para resumos/exercícios Git, GitHub e JavaScript.
 - 003 - Variaveis e Tipos - Atividades
 - 004 - Funçoes - Atividades
 - 005 - Colecoes - Atividades
-- 006 - Debug Error
+- 006 - Debug Error - Atividades
+- 007 - Javascript Assincrono - Atividades
  
 ### Links Úteis
 [Download do Git](https://git-scm.com/downloads)<br>
