@@ -6,8 +6,9 @@ Criado para resumos/exercícios Git, GitHub e JavaScript.
 - 002 - Sintaxe e Operadores - Atividade
 - 003 - Variaveis e Tipos - Atividades
 - 004 - Funçoes - Atividades
-- 005 - Colecoes
-
+- 005 - Colecoes - Atividades
+- 006 - Debug Error
+ 
 ### Links Úteis
 [Download do Git](https://git-scm.com/downloads)<br>
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax)
