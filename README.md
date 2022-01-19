@@ -10,6 +10,7 @@ Criado para resumos/exercícios Git, GitHub e JavaScript.
 - 006 - Debug Error - Atividades
 - 007 - Javascript Assincrono - Atividades
 - 008 - Orientação a objetos - Atividade
+- 009 - Map Filter e Reduce - Atividade
  
 ### Links Úteis
 [Download do Git](https://git-scm.com/downloads)<br>
